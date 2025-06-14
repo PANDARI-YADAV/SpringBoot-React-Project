@@ -1,4 +1,4 @@
-# 💼 Job Application Backend
+# 💼 Job Application
 
 A backend project built using **Spring Boot**, **Spring Data JPA**, and **PostgreSQL**, focused on mastering CRUD operations and RESTful API development. This project manages job listings with functionality to create, read, update, delete, and search jobs.
 
@@ -11,11 +11,12 @@ This project is designed to improve backend development skills using Spring Boot
 ---
 
 ## 🛠️ Technologies Used
-
+- **Frontend:** React.js
 - **Backend:** Spring Boot
 - **ORM:** Spring Data JPA
 - **Database:** PostgreSQL
 - **API Style:** RESTful (using `@RestController`, `@GetMapping`, `@PostMapping`, etc.)
+
 
 ---
 
